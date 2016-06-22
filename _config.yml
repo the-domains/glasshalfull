@@ -1,0 +1,14 @@
+layout_spectrum: 0.55447603831999
+typography_spectrum: 0.2484098521526903
+color:
+  brandStrength: 0.7653696413617581
+  lightness: 0.6101141015533358
+  saturation: 0.44738276093266904
+  rhythmicContrast: 0.2928807004354894
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Glasshalfull
